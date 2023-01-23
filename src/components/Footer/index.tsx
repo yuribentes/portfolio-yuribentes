@@ -21,10 +21,11 @@ export const Footer = (): JSX.Element => {
           />
           <Box css={{ marginLeft: "$2" }}>
             <Text type="heading4" color="grey5" css={{ marginBottom: "$2" }}>
-              Thank you! {/* <HandEffect /> */}
+              Sobre mim {/* <HandEffect /> */}
             </Text>
             <Text type="body1" color="grey2">
-              Follow me on my social networks and let's talk
+              Meu nome é Yuri Bentes, moro atualmente em São José dos Campos, interior de São Paulo. Tenho 29 anos e atualmente estou estudando
+              para me tornar um desenvolvedor full-stack na Kenzie Academy. 
             </Text>
           </Box>
         </Flex>
