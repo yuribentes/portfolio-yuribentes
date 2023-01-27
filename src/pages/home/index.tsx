@@ -67,6 +67,9 @@ export const Home = (): JSX.Element => {
               <Button as="a" type="outline" target="_blank" href={portfolioUrl}>
                 Código do portfólio
               </Button>
+              <Button as="a" type="outline" target="_blank" href={"https://y-nine-smoky.vercel.app/"}>
+                Vercel App
+              </Button>
               <Button
                 color="grey5"
                 as="a"
